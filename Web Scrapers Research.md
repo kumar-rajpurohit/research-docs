@@ -18,7 +18,13 @@ Scraped data is often used in:
 
 ### Why is scraping web data so important?
 
+Some of the reasons are
+
 * Saves Time
+* Check competitor pricing
+* Track trends
+* Data accuracy
+* Large real data sets to compare
 
 ### Popular Tools
 
