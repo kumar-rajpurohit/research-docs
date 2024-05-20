@@ -31,3 +31,7 @@ Scraped data is often used in:
   >
 
   Organic keyword tracking, brand protection, price comparison, market research, detect copyright infringements, ad intelligence
+
+### Other Alternatives
+
+* Browser extensions to extract data from maps directly, like [this](https://chromewebstore.google.com/detail/maps-scraper-leads-extrac/ghokiciomljbacchbkfhmnlmflbponlf?hl=en&pli=1) one
